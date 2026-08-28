@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mailtokhachatryan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aghasi-khachatryan-a07a6117a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aghasi-khachatryan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghasikhachatryan04@gmail.com)
 [![Phone](https://img.shields.io/badge/%2B374_94_657895-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+37494657895)
 [![Location](https://img.shields.io/badge/Yerevan,_Armenia_(UTC%2B4)-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
