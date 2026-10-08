@@ -48,7 +48,7 @@ public class AghasiKhachatryan {
         "Reactive Java 21 & Micronaut services with GraalVM native builds",
         "Go concurrency — goroutines, worker pools, sync primitives",
         "Event-driven pipelines over Kafka, ActiveMQ and AWS SQS",
-        "Agentic development with Claude Code & OpenCode CLI"
+        "Agentic SDLC workflows, MCP integrations & team AI enablement"
     );
 }
 ```
@@ -63,11 +63,47 @@ public class AghasiKhachatryan {
 <tr>
 <td>
 
-**Senior Backend Engineer** with **6+ years** in **Java** and **Go**, building distributed systems: microservices, **REST and gRPC APIs**, and event-driven pipelines. Commands **Spring Boot, Micronaut, JVM concurrency** and clean architecture in production systems. Designs scalable architecture for **fintech, banking, cloud-infrastructure and e-commerce** platforms, delivered on **AWS** with Docker, Kubernetes, Helm and CI/CD. Models data across relational and NoSQL stores, with advanced SQL and query tuning. Owns systems from design decision through deployment to production support — leading code review, driving core system-design decisions and mentoring engineers. Currently building OMD's **tick-level market-data platform**; previously led architecture decisions and code review across e-commerce teams. Uses **Claude Code and OpenCode CLI** in daily production development.
+**Senior Backend Engineer** with **6+ years** in **Java** and **Go**, building distributed systems: microservices, **REST and gRPC APIs**, and event-driven pipelines. Commands **Spring Boot, Micronaut, JVM concurrency** and clean architecture in production systems. Designs scalable architecture for **fintech, banking, cloud-infrastructure and e-commerce** platforms, delivered on **AWS** with Docker, Kubernetes, Helm and CI/CD. Models data across relational and NoSQL stores, with advanced SQL and query tuning. Owns systems from design decision through deployment to production support — leading code review, driving core system-design decisions and mentoring engineers. Currently building OMD's **tick-level market-data platform**; previously led architecture decisions and code review across e-commerce teams. Uses **Claude Code and OpenCode CLI** in daily production development. Built an **agentic SDLC workflow now used by the team in daily work**, with reusable skills, specialized subagents, MCP integrations and human approval gates.
 
 </td>
 </tr>
 </table>
+
+---
+
+## AI Engineering & Team Enablement
+
+I build AI-assisted development workflows that engineering teams use in their daily work. At OMD, I created **tickwrite-sdlc**, an internal Claude Code plugin that connects Jira planning, test-first implementation, local verification and code review, with human approval at key stages.
+
+- **Reusable automation:** five skills (`/brainstorm`, `/ticket`, `/tdd`, `/verify`, `/review`), eight specialized subagents, workflow hooks, a PowerShell state CLI, templates and onboarding documentation.
+- **Shared project context:** workspace and per-service `CLAUDE.md` / `AGENTS.md` instructions covering architecture, conventions, API-first development, test commands and cross-service pitfalls.
+- **Development integrations:** Atlassian MCP for Jira/Confluence, codebase-memory MCP for impact analysis, and context7 MCP for library documentation.
+- **Verification and review:** captured failing and passing tests, Docker Compose and Postman checks, fresh-agent review, and human merge-request approval.
+- **Workflow controls:** ticket-scoped checks for approved service boundaries, plan approval and generated-source protection. Human review remains the final quality gate.
+
+**Tools:** Claude Code, OpenCode CLI, MCP, Anthropic API, AI-assisted TDD and code review.
+
+## AI Certifications
+
+### OpenAI
+
+Issued October 2026; valid through October 2027.
+
+- [ChatGPT Deployment Practitioner](https://oaipartnernetwork.credential.net/1843ca2e-b8dd-41af-8c9e-383d8ff5555a)
+- [Codex Deployment Practitioner](https://oaipartnernetwork.credential.net/3b1d93cb-88ee-4bb0-a47b-1ac0a182518a)
+- [OpenAI Cyber Deployment Practitioner](https://oaipartnernetwork.credential.net/bd63a5af-a690-4a18-9f8f-f10f02888ec6#acc.vYdcKUMm)
+- [ChatGPT Solutions Practitioner](https://oaipartnernetwork.credential.net/7d337959-a321-401f-8ff6-62a7fea2ddf3#acc.bzupN1cg)
+- [OpenAI Consultative Solutions Practitioner](https://oaipartnernetwork.credential.net/7fac0709-addc-4413-aace-dbbadeaf442c#acc.r81yHpt9)
+- [Codex Solutions Practitioner](https://oaipartnernetwork.credential.net/a8945357-d8d4-444b-8c4e-cb7e1b0da641#acc.XN8SR5ca)
+- [OpenAI Cyber Solutions Practitioner](https://oaipartnernetwork.credential.net/99f99f3b-b3da-4cf1-8894-f2f931c843bb#acc.fkUFqxvg)
+- [OpenAI Technical Practitioner](https://oaipartnernetwork.credential.net/ffb5b6a7-7d2b-44a8-b565-898585e6efc9#acc.9n41jSHF)
+
+### Google
+
+- [Certified Partner Specialist Gemini Enterprise Deployment](https://www.credly.com/badges/e50c82f9-2852-4653-b95f-88e84ef4b379/linked_in_profile) — issued September 2026; valid through March 2027.
+- [Add Agents to Gemini Enterprise](https://www.credly.com/badges/28ce8ac4-54c5-4c6d-af74-bcc59e359ff6/linked_in_profile) — issued September 2026.
+
+**Professional development:** Preparing for an Anthropic certification.
 
 ---
 
@@ -576,7 +612,7 @@ Authored and taught a Java & Spring backend curriculum as instructor
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mailtokhachatryan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aghasi-khachatryan-a07a6117a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aghasi-khachatryan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghasikhachatryan04@gmail.com)
 
 <br/>
