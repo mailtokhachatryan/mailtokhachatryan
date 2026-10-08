@@ -14,7 +14,7 @@
 [![Phone](https://img.shields.io/badge/%2B374_94_657895-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+37494657895)
 [![Location](https://img.shields.io/badge/Yerevan,_Armenia_(UTC%2B4)-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-[![Download CV](https://img.shields.io/badge/%F0%9F%93%84_Download_CV-232F3E?style=for-the-badge)](https://mailtokhachatryan.github.io/Aghasi_Khachatryan_CV.pdf)
+[![Download CV](https://img.shields.io/badge/%F0%9F%93%84_Download_CV-232F3E?style=for-the-badge)](https://github.com/mailtokhachatryan/mailtokhachatryan/raw/refs/heads/main/Aghasi-Khachatryan-AI-Native-CV-v4.pdf)
 
 </div>
 
