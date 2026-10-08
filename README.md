@@ -101,7 +101,7 @@ Issued October 2026; valid through October 2027.
 ### Google
 
 - [Certified Partner Specialist Gemini Enterprise Deployment](https://www.credly.com/badges/e50c82f9-2852-4653-b95f-88e84ef4b379/linked_in_profile) — issued September 2026; valid through March 2027.
-- [Add Agents to Gemini Enterprise](https://www.credly.com/badges/28ce8ac4-54c5-4c6d-af74-bcc59e359ff6/linked_in_profile) — issued September 2026.
+- [Certified Partner Specialist Gemini Enterprise Agent Development](https://www.credly.com/badges/982b566f-d47b-4a09-b243-20c810754dcd/linked_in?t=tm6ifp) — issued September 2026.
 
 **Professional development:** Preparing for an Anthropic certification.
 
